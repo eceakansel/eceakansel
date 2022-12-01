@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Amazon Web Services and UIPath
 - 📫 You can reach me on Linkedin: www.linkedin.com/in/sedef-ece-akansel/
-- I am skilled in Python, R, SQL, Alteryx, Tableau
+- I am skilled in Python, R, SQL, Alteryx, Tableau and VBA
 
 <!---
 eceakansel/eceakansel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
