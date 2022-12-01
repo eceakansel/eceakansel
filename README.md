@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eceakansel
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Amazon Web Services and UIPath
-- 📫 How to reach me on Linkedin
+- 📫 You can reach me on Linkedin: https://www.linkedin.com/in/sedef-ece-akansel/
 - I am skilled in Python, R, SQL, Alteryx, Tableau
 
 <!---
